@@ -1,2 +1,3 @@
 # helloInternet
-first manually created repository
+first manually created repository!
+How's it going?
